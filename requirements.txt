@@ -1,0 +1,5 @@
+pyinstaller
+PyQt5
+requests
+selenium
+webdriver_manager
